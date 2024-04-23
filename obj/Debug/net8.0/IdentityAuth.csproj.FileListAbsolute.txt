@@ -109,3 +109,12 @@
 /Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/obj/Debug/net8.0/IdentityAuth.pdb
 /Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/obj/Debug/net8.0/IdentityAuth.genruntimeconfig.cache
 /Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/obj/Debug/net8.0/ref/IdentityAuth.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/obj/Debug/net8.0/IdentityAuth.sourcelink.json
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/otabek_coding/C# codes/RiderProjects/IdentityAuth/IdentityAuth/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
