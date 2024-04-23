@@ -45,10 +45,10 @@ namespace IdentityAuth.Controllers
 
 
 
-            foreach(var role in registerDto.Roles)
-            {
-                await _userManager.AddToRoleAsync(user, role);
-            }
+            // foreach(var role in registerDto.Roles)
+            // {
+            //     await _userManager.AddToRoleAsync(user, role);
+            // }
 
             return Ok(result);
         }

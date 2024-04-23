@@ -8,5 +8,5 @@ public class RegisterDTO
     public int Age { get; set; }
     public string? Gender { get; set; }
 
-    public IList<string> Roles { get; set; }
+    // public IList<string> Roles { get; set; }
 }
